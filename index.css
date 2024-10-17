@@ -1,0 +1,38 @@
+.a{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding: 0px 15px;
+}
+.b{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 2%;
+}
+img{
+  height: 200px;
+  width: 200px;
+}
+.c{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 200px;
+  border: 1px solid black;
+  padding: 5px;
+}
+#x{
+  margin-bottom: 0%;
+}
+#xx{
+  margin: 0%;
+  padding: 0%;
+}
+#a{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content:center;
+  gap: 50px;
+  margin-top: 3%;
+}
